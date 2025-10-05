@@ -8,4 +8,4 @@ Repositorio donde se aplica modelos DeepONet de forma intuitiva, progresiva y a 
 
 - DeepXDE  1D heat ecuation: (https://colab.research.google.com/drive/1VqxxikBLs-j0kGdrAK386gr7dAoiv2l8?usp=sharing)
 
-- DeepXDE fuid simulator, Navier Stockes ()
+- DeepXDE fuid simulator, Navier Stockes (https://colab.research.google.com/drive/1tjZtUJBnUbYb5IXQ29A6dOMcNbwy0-K9?usp=sharing)
