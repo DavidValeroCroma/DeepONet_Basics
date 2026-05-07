@@ -8,5 +8,4 @@ Repositorio donde se aplica modelos DeepONet de forma intuitiva, progresiva y a 
 
 - DeepXDE  1D heat ecuation: (https://colab.research.google.com/drive/1VqxxikBLs-j0kGdrAK386gr7dAoiv2l8?usp=sharing)
 
-- PPDONet hecho en Chile (https://colab.research.google.com/drive/1b-9lMu9r-mjjzKl5WggcyXNZuVNK6taF?usp=sharing)
-    - Modelo alternativo (https://colab.research.google.com/drive/1_SymUtPyLIhoVkmZQOKoX4D3S3sQ5lLF?usp=sharing)
+
