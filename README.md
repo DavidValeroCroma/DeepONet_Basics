@@ -1,5 +1,5 @@
 # DeepONet_Basics
-Repositorio donde se aplica modelos DeepONet de forma intuitiva, progresiva y a problemas simples. Esto con el fin de entender el funcionamiento y construcción de estas arquitecturas de Deep Learning con claridad.
+Repositorio donde se aplica modelos DeepONet, de forma intuitiva y progresiva, a problemas simples. Esto con el fin de entender el funcionamiento y construcción de estas arquitecturas de Deep Learning con claridad.
 
 - Aplicación basica a integración de funciones en un espacio aleatorio gaussiano:
 (https://colab.research.google.com/drive/1IBhRUBpyruH_tF-tSBjO6Ev62XDm-r1l?usp=sharing)
